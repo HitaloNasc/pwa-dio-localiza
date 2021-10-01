@@ -1,3 +1,9 @@
+@import 'antd/dist/antd.css';
+
+:root{
+  margin: 2vh;
+}
+
 .App {
   text-align: center;
 }
